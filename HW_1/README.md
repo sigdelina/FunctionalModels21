@@ -3,7 +3,7 @@
 
 ### Комментарии
 
-*Корпус можно скачать по ссылке*: [выбрать Digital Music 5 core](http://jmcauley.ucsd.edu/data/amazon/). Первоначальный корпус весит достаточно много и его нельзя подгрузить сюда
+**Корпус можно скачать по ссылке**: [выбрать Digital Music 5 core](http://jmcauley.ucsd.edu/data/amazon/). Первоначальный корпус весит достаточно много и его нельзя подгрузить сюда
 
 Ссылка на домашнее задание в [Google collab](https://colab.research.google.com/drive/1DsaMTecM9GvZ6rT8PDckxMgpondd_iGD?usp=sharing)
 
